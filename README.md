@@ -1,3 +1,5 @@
+**This is a copy of OmniAuth that fixes Twitter authentication for those who 
+stuck with Rails 3.1 and old version of OmniAuth because of multi_json dependency constraint.**
 # OmniAuth: Standardized Multi-Provider Authentication
 OmniAuth is a new Rack-based authentication system for multi-provider external
 authentcation. OmniAuth is built from the ground up on the philosophy that
